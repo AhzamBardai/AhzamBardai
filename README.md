@@ -1,6 +1,7 @@
 ### Hi there, welcome to my GitHub 👋
 
 I'm an enthusiastic developer and learning new skills/tools/frameworks is my motto. My forever goals will be keeping a knowledge driven growth mindset, continuing this lifelong journey and aiming for the top!
+
 Below are some of my work, check it out and leave a start if you like it! Any contributions or issues will be much appreciated!
 <!---
 - 🔭 I’m currently working on ...g
