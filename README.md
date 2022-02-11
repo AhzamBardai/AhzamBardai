@@ -1,11 +1,8 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub 👋
 
-<!--
-**AhzamBardai/AhzamBardai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+I'm an enthusiastic developer and learning new skills/tools/frameworks is my motto. My forever goals will be keeping a knowledge driven growth mindset, continuing this lifelong journey and aiming for the top!
+<!---
+- 🔭 I’m currently working on ...g
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
